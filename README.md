@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|Inoma Nobuhiko|
-|Blod|[freedomworld](https://freedomworld.jp/)|
+|Blog|[freedomworld](https://freedomworld.jp/)|
 |Twitter|[@karcneciel0113](https://twitter.com/karcenciel0113)|
 |Qiita|[Qiita](https://qiita.com/karcenciel0113)|
 
