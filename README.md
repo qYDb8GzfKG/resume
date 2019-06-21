@@ -5,6 +5,9 @@
 |key|value|
 |---|-----|
 |Name|Inoma Nobuhiko|
+|Birth|1986/01/13|
+|Family|married|
+|Location|Tochigi pref|
 |Blog|[freedomworld](https://freedomworld.jp/)|
 |Twitter|[@karcneciel0113](https://twitter.com/karcenciel0113)|
 |Qiita|[Qiita](https://qiita.com/karcenciel0113)|
@@ -26,6 +29,14 @@
 |PowerShell|0.3年|
 
 
+## 資格
+|資格名|取得日|
+|----|------|
+|LPIC level 2|2006/07|
+|ITIL foundation|2007/10|
+|Microsoft Officce Specialist Access |2004/5|
+
+
 ## DB
 - MySQL
 - PostgreSQL 10年くらい前に触ったきり。。。
@@ -40,11 +51,14 @@
 
 
 ## 自然言語
-- 日本語　ネイティブ  
-- 英語　日常会話ならOK  
+|言語|コメント|
+|----|------|
+|日本語|ネイティブ 資格はなし|
+|英語|日常会話ならOK  
  English Grammar in Useを3周勉強した  
  Instagramの投稿はすべて英語で投稿するようにしています  
- 現職で日常的に英文メールを使っています  
+ 現職で日常的に英文メールを使っています。|
+
 
 
 ## 強み
