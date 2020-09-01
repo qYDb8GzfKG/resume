@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|Inoma Nobuhiko|
-|Blog|[freedomworld](https://freedomworld.jp/)|
+|Blog|[noblogrammar.com](https://noblogrammar.com/)|
 |Twitter|[@karcneciel0113](https://twitter.com/karcenciel0113)|
 |Qiita|[Qiita](https://qiita.com/karcenciel0113)|
 
@@ -33,7 +33,6 @@
 
 
 ## フレームワーク
-- cakePHP 勉強中
 - Laravel 勉強中
 
 ## その他
@@ -95,12 +94,15 @@
 VBA、VBScript、PowerShellなどと連携してメールの配信やデータの集計などを自動化中。  
 
 - 日本でモデル工場として、海外へ展開予定
-- 所属している部署のために、DBサーバーを構築中　
 
+### DSKBの開発(電子ホワイトボード)
+- 開発背景
+　新規事業の一環として立ち上げ、売上増加を図る。
+ 
 サーバー構成:Windows Server 2012 R2  
 DB:MySQL  
 WebServer:Apache2.4  
-使用言語:PHP7.2 HTML5 CSS3  
+使用言語:PHP7.2 HTML5 CSS3 jQuery3.5
 
 
 
