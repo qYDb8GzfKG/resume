@@ -5,7 +5,6 @@
 |key|value|
 |---|-----|
 |Name|Inoma Nobuhiko|
-|Blog|[noblogrammar.com](https://noblogrammar.com/)|
 |Twitter|[@karcneciel0113](https://twitter.com/karcenciel0113)|
 |Qiita|[Qiita](https://qiita.com/karcenciel0113)|
 
@@ -17,17 +16,18 @@
 |VBA|12年|
 |HTML|2年|
 |CSS|2年|
+|PHP|1年| 
 |JavaScript|1年|
 |jQuery|1年|
-|PHP|1年| 
 |Java|1年|
+|WinActor|1年|
 |GAS|0.5年|
 |UiPath|0.3年|
-|WinActor|1年|
+
 
 
 ## DB
-- MySQL
+- MySQL or MariaDB
 - PostgreSQL 10年くらい前に触ったきり。。。
 - ACCESS
 
@@ -70,9 +70,8 @@
  
 
 ## やったことはないが興味があるもの
-- WEBアプリの開発
-- iOSアプリの開発
-- 今までスタンドアロンでのシステム開発しかしなかったのでWeb系言語を使用したサービスの開発
+- スマホアプリの開発
+
 
 
 ## 職務経歴
